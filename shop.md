@@ -1,5 +1,5 @@
 ---
-title: Shop
+title: Collaborators
 layout: product
-permalink: /shop/
+permalink: /collab/
 ---
