@@ -2,7 +2,8 @@
 layout: post
 author: johndoe
 title: Exlaim news post
-date: 2023-12-11thumbnail: /assets/img/posts/hello.jpg
+date: 2023-12-11
+thumbnail: /assets/img/posts/hello.jpg
 category: jekyll
 summary: Demo Content using Netlify CMS
 keywords: using netlify cms with devlopr-jekyll, devlopr jekyll netlify cms, how to use netlify cms
