@@ -114,7 +114,7 @@ show_author_project_details: true
 # pagination of posts
 paginate: 4
 per_page: 4
-paginate_path: "/blog/page/:num/"
+paginate_path: "/news/page/:num/"
 
 # minify
 # compress_html:
@@ -150,7 +150,7 @@ defaults:
       type: authors
     values:
       layout: author
-      permalink: /blog/authors/:slug
+      permalink: /news/authors/:slug
   -
     scope:
       path: 'assets/**'
